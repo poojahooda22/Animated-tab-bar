@@ -1,0 +1,7 @@
+html *,
+html *::before,
+html *::after {
+
+    box-sizing: inherit;
+
+}
